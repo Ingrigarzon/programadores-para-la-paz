@@ -1,0 +1,6 @@
+Ruta /:
+Muestra el mensaje “Servidor activo” cuando se accede desde el navegador.
+Ruta /saludo:
+Muestra el mensaje “Hola comunidad”.
+Ruta /mensaje/juan:
+Muestra un saludo personalizado utilizando el nombre enviado en la URL. En este caso aparece “Hola juan”.
