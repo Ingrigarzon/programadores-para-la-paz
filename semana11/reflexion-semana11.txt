@@ -1,0 +1,8 @@
+Una plataforma tecnológica necesita una base de datos para almacenar la información de manera organizada.
+La autenticación permite identificar a los usuarios y controlar el acceso a diferentes funciones.
+Esto ayuda a proteger la privacidad de las personas.
+También evita que usuarios no autorizados modifiquen la información.
+La protección de datos genera confianza en la comunidad.
+Además, facilita el seguimiento de las actividades realizadas.
+Una plataforma segura mejora la participación ciudadana.
+Por estas razones, es importante combinar base de datos, autenticación y buenas prácticas de seguridad.
