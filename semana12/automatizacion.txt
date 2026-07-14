@@ -1,0 +1,10 @@
+Evento: Nueva causa registrada.
+
+Mensaje: "Nueva causa creada en la plataforma. Revisar el sistema."
+
+Información que no debe enviarse:
+- Cédulas.
+- Teléfonos.
+- Direcciones.
+- Comentarios sensibles.
+- Datos personales de los ciudadanos.

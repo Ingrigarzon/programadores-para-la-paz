@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede ayudar a mejorar la participación ciudadana.
+También comprendí la importancia de organizar la información de forma clara y segura.
+Aprendí conceptos básicos de Node.js, Express, APIs y bases de datos.
+Entendí cómo automatizar tareas y generar reportes para apoyar a una comunidad.
+Además, conocí la importancia de proteger los datos personales.
+Las herramientas tecnológicas facilitan el trabajo colaborativo y la comunicación.
+Este curso me permitió adquirir conocimientos útiles para futuros proyectos.
+Considero que estos aprendizajes serán una buena base para seguir creciendo en programación.
